@@ -1,12 +1,13 @@
 # ToDoApp
 Działa ale wolno
 
-git clone https://github.com/xyashino/ToDoApp.git
+1.  git clone https://github.com/xyashino/ToDoApp.git
 
-cd .\ToDoApp\
+2.  cd .\ToDoApp\
 
-run server
+3. npm i
+//run server
 
-node app
+4. node app
 ||
 npx nodemon app

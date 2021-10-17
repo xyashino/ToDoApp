@@ -1,5 +1,5 @@
 # ToDoApp
-Działa ale wolno
+Działa ale wolno  Sadeg -_-
 
 1.  git clone https://github.com/xyashino/ToDoApp.git
 

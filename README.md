@@ -7,7 +7,6 @@ Działa ale wolno
 
 3. npm i
 
-
 //run server
 
 4. node app

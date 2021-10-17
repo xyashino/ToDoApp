@@ -6,6 +6,8 @@ Działa ale wolno
 2.  cd .\ToDoApp\
 
 3. npm i
+
+
 //run server
 
 4. node app

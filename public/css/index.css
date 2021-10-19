@@ -34,7 +34,9 @@ body {
     -moz-osx-font-smoothing: grayscale;
     font-weight: 300;
 }
-
+[data-path]{
+    cursor: pointer;
+}
 :focus {
     outline: 0;
 }
